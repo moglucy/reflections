@@ -1,0 +1,23 @@
+cd - change directory
+
+cd Documents (change to Documents directory)
+
+cd .. (go back up a directory)
+
+cd ~ (change to your home directory)
+
+ls (list the contents of the directory)
+
+ls -f (shows folders/ then files - folders are followed by a slash)
+
+la -a (shows hidden files and folders)
+
+la -af (both the above)
+
+pwd - shows where you are
+
+mkdir - make directory (make a folder)
+
+\ use a backspace where there is a space in name ie my games = my\ games
+
+echo 'alias npd="C:Windows/SysWOW64/notepad.exe"'>>~/bashrc (sets npd as a quick link to notepad)

@@ -1,0 +1,16 @@
+git log (to list git log)
+
+down arrow (to scroll through log - not oldest is below yougest)
+
+git diff to compare the difference between two logs
+
+note: can use just the first 4 numbers of git logs in git diff
+
+git checkout to temporarily reset to a different commit
+
+git log to show the commits
+
+git init - initialises a git project
+
+git status
+
