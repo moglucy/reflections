@@ -14,3 +14,9 @@ git init - initialises a git project
 
 git status
 
+git add - add files to staging view
+
+git commit - commit staging view
+
+<esc> :wq <enter> to save changes
+
