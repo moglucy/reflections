@@ -1,0 +1,3 @@
+git init - initialises a folder as a git repository
+
+git status - lists the staus of the repository
